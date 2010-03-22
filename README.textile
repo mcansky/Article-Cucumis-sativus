@@ -1,0 +1,3 @@
+h2. Cucumis sativus
+
+Base de code pour article. Publié sous licence MIT (voir fichier LICENSE).
